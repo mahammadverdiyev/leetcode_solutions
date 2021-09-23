@@ -1,1 +1,1 @@
-# my own leetocde solutions.
+# my own leetcode solutions.
